@@ -2,8 +2,8 @@ var copy = require("copy-dynamodb-table").copy;
 
 var globalAWSConfig = {
   // AWS Configuration object http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Config.html#constructor-property
-  accessKeyId: "AKIA254DPEAHEZIGP3YF",
-  secretAccessKey: "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",
+  accessKeyId: "",
+  secretAccessKey: "",
   region: "us-east-1",
 };
 
